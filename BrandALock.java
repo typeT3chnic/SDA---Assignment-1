@@ -12,4 +12,8 @@ class BrandALock implements SmartLock{
     public int getBatteryConsumption(){
         return this.batt;
     }
+
+    public void create(){
+        System.out.println("Creating Brand A smart lock.");
+    }
 }//end Brand A Lock
