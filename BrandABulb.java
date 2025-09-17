@@ -11,5 +11,9 @@ class BrandABulb implements SmartBulb{
     public int getPowerUsage(){
         return this.pwrUsage;
     }
+
+    public void create(){
+        System.out.println("Creating Brand A smart bulb.");
+    }
     
 }//end brand A smart bulb
