@@ -5,7 +5,7 @@ public interface SmartDeviceFactory {
 }
 
 //BrandAFactory
-class BrandAFactory {
+class BrandAFactory implements SmartDeviceFactory{
     public SmartBulb createBulb(){
         return new BrandABulb();
     }
