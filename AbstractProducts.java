@@ -2,6 +2,7 @@
 public interface SmartBulb {
     void setPowerUsage(int value);  // Factory Method
     int getPowerUsage();
+    void create();
 }
 
 
@@ -10,6 +11,7 @@ public interface SmartBulb {
 public interface SmartLock {
     void setBatteryConsumption(int value);  // Factory Method
     int getBatteryConsumption();
+    void create();
 }
 
 
