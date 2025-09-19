@@ -62,6 +62,7 @@ SmartDeviceFactoryTest.java
 
 ProductOrderTest.java
 
+<img width="3094" height="2136" alt="image" src="https://github.com/user-attachments/assets/cbc85233-19ca-4943-b270-36f51a1c8fa6" />
 
 
 
