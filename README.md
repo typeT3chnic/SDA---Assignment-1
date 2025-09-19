@@ -21,8 +21,11 @@ TEST METHODS
 In addition to the main structure, test classes were developed for state/return-value testing for the SmartDeviceFactory, SmartLock and SmartBulb and all of the classes that implemented them. These test classes include:
 
 TestSmartLock.java
+
 TestSmartBulb.java
+
 ProductOrderTest.java
+
 SmartDeviceFactoryTest.java
 
 The assertEquals() function tests for an expected value by instantiating a test object and calling the getter method of that object's instance. That is how the setter and getter methods for the SmartBulb and SmartLock classes are tested at the same time. This is used in TestSmartLock, TestSmartBulb and ProductOrderTest.
