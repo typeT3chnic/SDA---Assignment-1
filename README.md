@@ -47,22 +47,24 @@ SCREENDUMP OF TEST RESULTS
 
 TestSmartBulb.java
 
-<img width="2180" height="2040" alt="image" src="https://github.com/user-attachments/assets/1c157b30-5c75-4cde-b60f-28ce615ec570" />
+<img width="3057" height="2196" alt="image" src="https://github.com/user-attachments/assets/3e8e44b5-25ba-4631-af20-b3643db751fe" />
 
 
 TestSmartLock.java
 
-<img width="1916" height="1908" alt="image" src="https://github.com/user-attachments/assets/200dea69-4438-45e0-bffe-cb829bba4510" />
+<img width="3090" height="1979" alt="image" src="https://github.com/user-attachments/assets/c502460a-6ffa-4565-8f76-ef3505f2c0fb" />
 
 
 SmartDeviceFactoryTest.java
 
-<img width="1903" height="1899" alt="image" src="https://github.com/user-attachments/assets/9c4f5c7e-4208-4c49-8b10-c5465a988222" />
+<img width="2798" height="1900" alt="image" src="https://github.com/user-attachments/assets/7fc53795-b90f-4985-a2ed-b01534065160" />
 
 
-ProductOrderTest.java (Only tested state/return of values, not string output).
+ProductOrderTest.java
 
-*need to find some way to ensure all tests are passed since it doesn't test for print statements, only state and return-value correctness
+
+
+
 
 
 
