@@ -40,13 +40,16 @@ TestSmartBulb.java
 
 <img width="2180" height="2040" alt="image" src="https://github.com/user-attachments/assets/1c157b30-5c75-4cde-b60f-28ce615ec570" />
 
+
 TestSmartLock.java
 
 <img width="1916" height="1908" alt="image" src="https://github.com/user-attachments/assets/200dea69-4438-45e0-bffe-cb829bba4510" />
 
+
 SmartDeviceFactoryTest.java
 
 <img width="1903" height="1899" alt="image" src="https://github.com/user-attachments/assets/9c4f5c7e-4208-4c49-8b10-c5465a988222" />
+
 
 ProductOrderTest.java (Only tested state/return of values, not string output).
 
