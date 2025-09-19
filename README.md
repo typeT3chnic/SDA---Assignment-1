@@ -12,7 +12,7 @@ The SmartDeviceFactory.java folder contains the SmartDeviceFactory interface whi
 
 The AbstractProducts.java contains interfaces representing the Smart Bulb and Smart Lock, which are implemented by the concrete product classes, BrandABulb, BrandBBulb, BrandALock and BrandBLock. The instances returned depends on which factory class is creating them (ex: the SmartDeviceFactory object is the instance of BRandAFactory, therefore, the methods will return an instance of either the BrandABulb or BrandALock classes.
 
-The ProductOrder class is the client code interacts with the Factory classes and calls their methods depending on what factory object and product is being passed through it.
+The ProductOrder class is the client code that interacts with the Factory classes and calls their methods depending on what factory object and the type of product (bulb or lock) is being passed through it.
 
 
 
