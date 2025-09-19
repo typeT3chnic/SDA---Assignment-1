@@ -1,5 +1,9 @@
 # SDA---Assignment-1
 
+Jayden Mallari (100927861)
+Rabab Raza (100932792)
+
+
 INTRODUCTION
 
 This assignment demonstrates the use of design patterns, specifically the abstract factory pattern and the factory method pattern, to create smart home devices for specific brands (i.e. Brand A, Brand B). Each brand distribute a family of products including Smart Bulbs and Smart Locks.
