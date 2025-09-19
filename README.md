@@ -18,4 +18,16 @@ The ProductOrder class is the client code that interacts with the Factory classe
 
 TEST METHODS
 
+In addition to the main structure, test classes were developed for state/return-value testing for the SmartDeviceFactory, SmartLock and SmartBulb and all of the classes that implemented them. These test classes include:
+
+TestSmartLock.java
+TestSmartBulb.java
+ProductOrderTest.java
+SmartDeviceFactoryTest.java
+
+The assertEquals() function tests for an expected value by instantiating a test object and calling the getter method of that object's instance. That is how the setter and getter methods for the SmartBulb and SmartLock classes are tested at the same time. This is used in TestSmartLock, TestSmartBulb and ProductOrderTest.
+
+The @Test functions in the SmartDeviceFactorytest.java incorporate the assertNotNull() and assertInstanceOf() methods. The assertNotNull() method verifies whether a value is not null. This is to test that the SmartDeviceFactory classes actually returned any instances of either SmartBulb or SmartLock objects. The assertInstanceOf() method helped in this by making sure the correctness of the instances returned. For example, when asked to create a smart bulb for Brand A, the program does not return a smart lock for Brand B.
+
+
   
