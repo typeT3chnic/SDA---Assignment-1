@@ -53,7 +53,7 @@ SmartDeviceFactoryTest.java
 
 ProductOrderTest.java (Only tested state/return of values, not string output).
 
-<img width="2653" height="2096" alt="image" src="https://github.com/user-attachments/assets/630cc34a-8c86-4b65-b603-7fa794702f33" />
+*need to find some way to ensure all tests are passed since it doesn't test for print statements, only state and return-value correctness
 
 
 
