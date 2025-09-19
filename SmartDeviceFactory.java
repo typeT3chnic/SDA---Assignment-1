@@ -14,3 +14,14 @@ class BrandAFactory implements SmartDeviceFactory{
         return new BrandALock();
     }
 }//end BrandAFactory
+
+//BrandAFactory
+class BrandBFactory implements SmartDeviceFactory{
+    public SmartBulb createBulb(){
+        return new BrandBBulb();
+    }
+
+    public SmartLock createLock(){
+        return new BrandBLock();
+    }
+}//end BrandBFactory
