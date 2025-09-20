@@ -52,7 +52,7 @@ sampleOrder.txt
 
 TEST METHODS
 
-To ensure all classes and interfaces were functioning as intended, you will find a TestDriver class to run the code. As per assignment instructions, test methods and instantiations were called to demonstrate the creation of a Smart Bulb from Brand A and a Smart Lock from Brand B.
+To ensure all classes and interfaces function as intended, you will find a TestDriver class to run the code. As per assignment instructions, test methods and instantiations were made to demonstrate the creation of a Smart Bulb from Brand A and a Smart Lock from Brand B.
 
 The test driver reads the external text file and passes values through ProductOrder (client class) until all data has been read.
 
