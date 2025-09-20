@@ -17,11 +17,9 @@ This assignment demonstrates the use of design patterns, specifically the abstra
 
 CODE STRUCTURE
 
-The SmartDeviceFactory.java folder contains the SmartDeviceFactory interface which includes the the createBulb() and createLock() methods. When called, those methods will return an instance of either a SmartBulb or SmartLock respectively for whatever SmartDeviceFactory Brand object calls it. These methods are inhereted by the BrandAFactory and BrandBFactory classes which call these methods.
+The code is contained within the following files:
 
-
-
-The ProductOrder class is the client code that interacts with the Factory classes and calls their methods depending on what factory object and the type of product (bulb or lock) is being passed through it.
+ProductOrder.java
 
 
 
