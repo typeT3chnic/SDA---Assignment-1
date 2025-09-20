@@ -37,7 +37,7 @@ public class TestDriver {
 
                 //passes the factory and product as arguments to Client code
                 ProductOrder order = new ProductOrder(factory, product);
-                //once smart products have been created and stored within Client class, function that calls the products' behaviour encapsulation functions will be call
+                //once smart products have been created and stored within Client class, function that calls the products' behaviour encapsulation functions will be called
                 order.createProducts();
 
                 if (product.equalsIgnoreCase("bulb")) {
