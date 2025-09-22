@@ -19,6 +19,9 @@ CODE STRUCTURE
 
 The code is contained within the following files:
 
+main branch:
+
+
 ProductOrder.java
 - Contains the client code. Values read by the driver are passed into this class, which in itself, calls the factory classes and behaviour encapsulation functions of the objects it creates.
 
@@ -39,6 +42,10 @@ SmartBulb.java
 TestDriver.java
 - Contains driver code that reads values from external txt file and passes them through the client class (ProductOrder).
 - Contains main method that runs the code and ensures that all classes and interfaces interact and function as intended.
+
+
+TestFiles Branch
+
 
 sampleOrder.txt
 - Should be placed in root directory.
