@@ -51,7 +51,6 @@ sampleOrder.txt
 - Should be placed in root directory.
 - Contains data for a Brand A Smart Bulb and Brand B Smart Lock
 - Contains sample input to test code functionality.
-- This file is located within the TestFiles branch
 
 <img width="2330" height="1663" alt="image" src="https://github.com/user-attachments/assets/ba3265e4-4f46-457f-8309-8cda35855446" />
 
