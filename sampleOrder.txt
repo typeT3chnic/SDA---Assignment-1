@@ -1,0 +1,2 @@
+A bulb 5
+B lock 3
