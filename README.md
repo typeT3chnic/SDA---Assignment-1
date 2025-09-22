@@ -45,7 +45,8 @@ sampleOrder.txt
 - Contains data for a Brand A Smart Bulb and Brand B Smart Lock
 - Contains sample input to test code functionality.
 
-<img width="2967" height="1880" alt="image" src="https://github.com/user-attachments/assets/17a11be4-c175-40ec-b131-00022fe08b98" />
+<img width="2035" height="1469" alt="image" src="https://github.com/user-attachments/assets/f3d71725-a9bd-408f-a726-f3e856fc6b73" />
+
 
 
 
