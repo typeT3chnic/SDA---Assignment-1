@@ -35,7 +35,7 @@ SmartLock.java
 - Behaviour encapsulation functions such as create(), setBatteryConsumption(), and getBatteryConsumption() are called from client class (ProductOrder).
 
 SmartBulb.java
-- Contains abstract product class interface (SmartBulb) for Smart Bulbs and concrete product classes implementing it (BrandABulb and BrandBLock).
+- Contains abstract product class interface (SmartBulb) for Smart Bulbs and concrete product classes implementing it (BrandABulb and BrandBBulb).
 - Instances of these classes are returned by the factory classes within SmartDeviceFactory.java.
 - Behaviour encapsulation functions such as create(), setPowerUsage(), and getPowerUsage() are called from client class (ProductOrder).
 
